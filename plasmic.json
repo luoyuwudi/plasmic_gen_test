@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "files",
@@ -40,9 +40,113 @@
           "cssFilePath": "plasmic/blank_project/PlasmicHomepage.module.css",
           "scheme": "blackbox",
           "componentType": "page"
+        },
+        {
+          "id": "bRCuFtWqP5",
+          "name": "NewPage",
+          "type": "managed",
+          "projectId": "oFUojo7aVsD6ehtiM6NzP7",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicNewPage.jsx",
+          "importSpec": {
+            "modulePath": "NewPage.jsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicNewPage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
         }
       ],
-      "icons": [],
+      "icons": [
+        {
+          "id": "xai3jr8w45",
+          "name": "UnionIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Union.jsx"
+        },
+        {
+          "id": "v4U96v3cMN",
+          "name": "Vector1Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Vector1.jsx"
+        },
+        {
+          "id": "n270KKgyDH",
+          "name": "NotchIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Notch.jsx"
+        },
+        {
+          "id": "oEdLKmaRskG",
+          "name": "BatteryIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Battery.jsx"
+        },
+        {
+          "id": "izBJLvjAIiR",
+          "name": "WifiIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Wifi.jsx"
+        },
+        {
+          "id": "cjjvhpwRtNh",
+          "name": "MobileSignalIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__MobileSignal.jsx"
+        },
+        {
+          "id": "UkVtyV6MECa",
+          "name": "FrameIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Frame.jsx"
+        },
+        {
+          "id": "PvIZ5vOWHQk",
+          "name": "搜索1Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__搜索1.jsx"
+        },
+        {
+          "id": "2XHoC0SBAUS",
+          "name": "Vector2Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Vector2.jsx"
+        },
+        {
+          "id": "aX3TCd2Tg9w",
+          "name": "底部折叠iconIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__底部折叠icon.jsx"
+        },
+        {
+          "id": "amPo49CxQaf",
+          "name": "LineIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line.jsx"
+        },
+        {
+          "id": "uu71p-EbTLj",
+          "name": "Frame2Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Frame2.jsx"
+        },
+        {
+          "id": "Pr6H7hfnHTK",
+          "name": "电话填充1Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__电话填充1.jsx"
+        },
+        {
+          "id": "FMWi0CjOk8D",
+          "name": "手机11Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__手机11.jsx"
+        },
+        {
+          "id": "390X3FEQQlf",
+          "name": "邮箱1Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__邮箱1.jsx"
+        },
+        {
+          "id": "M_LIR3av0ES",
+          "name": "地址11Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__地址11.jsx"
+        },
+        {
+          "id": "tHYFpo2ojig",
+          "name": "GroupIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group.jsx"
+        },
+        {
+          "id": "-Whe7oTV1yk",
+          "name": "Group13Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group13.jsx"
+        }
+      ],
       "images": [
         {
           "id": "ky5cULuSv",
@@ -203,6 +307,66 @@
           "id": "kjFJGqSkcvg",
           "name": "IMAGE 32",
           "filePath": "plasmic/blank_project/images/image32.png"
+        },
+        {
+          "id": "fvZQjGu7G",
+          "name": "WechatIMG445 1",
+          "filePath": "plasmic/blank_project/images/wechatImg4451.jpeg"
+        },
+        {
+          "id": "WGexH6Tw4c",
+          "name": "bg",
+          "filePath": "plasmic/blank_project/images/bg.jpeg"
+        },
+        {
+          "id": "GFvA0pzxR6",
+          "name": "unsplash:EDNt6E3Zjd4",
+          "filePath": "plasmic/blank_project/images/unsplashEdNt6E3Zjd4.jpeg"
+        },
+        {
+          "id": "pvM0P1AGBM",
+          "name": "unsplash:EDNt6E3Zjd4 2",
+          "filePath": "plasmic/blank_project/images/unsplashEdNt6E3Zjd42.jpeg"
+        },
+        {
+          "id": "9Jcw-_Bfgx",
+          "name": "unsplash:EDNt6E3Zjd4 3",
+          "filePath": "plasmic/blank_project/images/unsplashEdNt6E3Zjd43.jpeg"
+        },
+        {
+          "id": "zxam_hUguS",
+          "name": "unsplash:EDNt6E3Zjd4 4",
+          "filePath": "plasmic/blank_project/images/unsplashEdNt6E3Zjd44.jpeg"
+        },
+        {
+          "id": "wFgGYuzIhG",
+          "name": "unsplash:EDNt6E3Zjd4 5",
+          "filePath": "plasmic/blank_project/images/unsplashEdNt6E3Zjd45.jpeg"
+        },
+        {
+          "id": "AvGENgODtH",
+          "name": "unsplash:EDNt6E3Zjd4 6",
+          "filePath": "plasmic/blank_project/images/unsplashEdNt6E3Zjd46.jpeg"
+        },
+        {
+          "id": "qZ_y3OAPnE",
+          "name": "unsplash:EDNt6E3Zjd4 7",
+          "filePath": "plasmic/blank_project/images/unsplashEdNt6E3Zjd47.jpeg"
+        },
+        {
+          "id": "kSXQMazz6z",
+          "name": "unsplash:EDNt6E3Zjd4 8",
+          "filePath": "plasmic/blank_project/images/unsplashEdNt6E3Zjd48.jpeg"
+        },
+        {
+          "id": "FKeu19CyQV",
+          "name": "沐融科技入选2021年北京市第六批“专精特新”中小企业名单 1",
+          "filePath": "plasmic/blank_project/images/沐融科技入选2021年北京市第六批专精特新中小企业名单1.png"
+        },
+        {
+          "id": "gB8VYxr1DvD",
+          "name": "抖音 1",
+          "filePath": "plasmic/blank_project/images/抖音1.svg"
         }
       ],
       "indirect": false,
